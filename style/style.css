@@ -57,7 +57,7 @@ a{
 }
 
 .img-borders{
-    border: 1px double rgb(75, 73, 73)  ;
+    border: 1px solid rgb(75, 73, 73)  ;
     box-shadow: 3px 3px 6px black;
 }
 
